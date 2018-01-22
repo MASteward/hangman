@@ -1,0 +1,15 @@
+body {
+	background: url("../images/westernSaloon.jpg");
+	background-size: cover;
+}
+.container{
+	background-color: rgba(255,255,255, .5);
+	margin:0 auto;
+	text-align: center;
+	width: 600px;
+	padding: 20px 40px 40px;
+}
+
+h1{
+	font-family: 'Rye', cursive;
+}
